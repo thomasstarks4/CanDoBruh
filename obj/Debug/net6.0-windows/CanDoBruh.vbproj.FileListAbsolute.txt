@@ -1,0 +1,16 @@
+C:\Users\sailo\source\repos\CanDoBruh\bin\Debug\net6.0-windows\CanDoBruh.exe
+C:\Users\sailo\source\repos\CanDoBruh\bin\Debug\net6.0-windows\CanDoBruh.deps.json
+C:\Users\sailo\source\repos\CanDoBruh\bin\Debug\net6.0-windows\CanDoBruh.runtimeconfig.json
+C:\Users\sailo\source\repos\CanDoBruh\bin\Debug\net6.0-windows\CanDoBruh.dll
+C:\Users\sailo\source\repos\CanDoBruh\bin\Debug\net6.0-windows\CanDoBruh.pdb
+C:\Users\sailo\source\repos\CanDoBruh\obj\Debug\net6.0-windows\CanDoBruh.Form1.resources
+C:\Users\sailo\source\repos\CanDoBruh\obj\Debug\net6.0-windows\CanDoBruh.vbproj.GenerateResource.cache
+C:\Users\sailo\source\repos\CanDoBruh\obj\Debug\net6.0-windows\CanDoBruh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sailo\source\repos\CanDoBruh\obj\Debug\net6.0-windows\CanDoBruh.AssemblyInfoInputs.cache
+C:\Users\sailo\source\repos\CanDoBruh\obj\Debug\net6.0-windows\CanDoBruh.AssemblyInfo.vb
+C:\Users\sailo\source\repos\CanDoBruh\obj\Debug\net6.0-windows\CanDoBruh.vbproj.CoreCompileInputs.cache
+C:\Users\sailo\source\repos\CanDoBruh\obj\Debug\net6.0-windows\CanDoBruh.dll
+C:\Users\sailo\source\repos\CanDoBruh\obj\Debug\net6.0-windows\refint\CanDoBruh.dll
+C:\Users\sailo\source\repos\CanDoBruh\obj\Debug\net6.0-windows\CanDoBruh.pdb
+C:\Users\sailo\source\repos\CanDoBruh\obj\Debug\net6.0-windows\CanDoBruh.genruntimeconfig.cache
+C:\Users\sailo\source\repos\CanDoBruh\obj\Debug\net6.0-windows\ref\CanDoBruh.dll
